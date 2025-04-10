@@ -9,19 +9,24 @@ For this challenge, participants will be challenged to construct a perfect cube 
 ![Cube Banner](/images/cube/cube-challenge.png)
 
 > **Note**  
-> These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are note, there are instructions at the bottom of this page on creating your own copies of this puzzle.
+> These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on creating your own copies of this puzzle.
 
-1. There are seven copies of this puzzle in the plastic drawers in room CTI306. Sort the blocks based on their colour. There should be six 2 x 2 x 1 blocks and three 1 x 1 x 1 blocks. The two coloured patters on the blocks are not part of the puzzle.
+1. There are seven copies of this puzzle in the plastic drawers in room CTI306. Sort the blocks based on their colour. There should be six 2 x 2 x 1 blocks and three 1 x 1 x 1 blocks. 
 
-2. Put students into groups (max seven groups). Give each group a puzzle. Instruct groups to use the blocks to build a perfect cube. 
+2. Instruct the class that: 
+    
+    - The coloured patters on the blocks are not part of the puzzle.
+    - You may not disassemble the blocks.
 
-3. **Hint!** If groups are struggling, encourgae them to calculate the overall size of the cube. The overall size of the cube will be 3 x 3 x 3 (like a Rubiks Cube).
+3. Put students into groups (max seven groups). Give each group a puzzle. Instruct groups to use the blocks to build a perfect cube. 
 
-4. **Hint!** If groups continue to struggle, inform the groups that one of the 1 x 1 x 1 blocks will go in the exact middle of the puzzle. 
+4. **Hint!** If groups are struggling, encourgae them to calculate the overall size of the cube. The overall size of the cube will be 3 x 3 x 3 (like a Rubiks Cube).
+
+5. **Hint!** If groups continue to struggle, inform the groups that one of the 1 x 1 x 1 blocks will go in the exact middle of the puzzle. 
 
 ## Solution
 
-Here are step by step instructions for the cube puzzle:
+Here are step by step instructions for the cube puzzle solution:
 
 ![Cube Solution](/images/cube/cube-solution.png)
 
@@ -51,7 +56,8 @@ To create these puzzles you will need tp purchase the following parts from LEGO&
 
 [Download the cube puzzle part list](/partlist/cube-partlist.csv)
 
-
+> **Note**  
+> Each puzzle will cost about $45.00 CDN
 
 ---
 
