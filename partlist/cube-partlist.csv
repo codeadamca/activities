@@ -1,0 +1,9 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11203,,11203.dat,"Tile, Modified 2 x 2 Inverted",245,219,Lilac,Solid Colors,60,0.62
+3001,4229354,3001.dat,Brick 2 x 4,245,219,Lilac,Solid Colors,129,0
+3001,4153827,3001.dat,Brick 2 x 4,4,25,Orange,Solid Colors,27,2.32
+3020,,3020.dat,Plate 2 x 4,245,219,Lilac,Solid Colors,12,1.2
+87079,,87079.dat,Tile 2 x 4,245,219,Lilac,Solid Colors,30,0.9
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+258,141.24,,,,,,,,
