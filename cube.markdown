@@ -57,7 +57,7 @@ To create these puzzles you will need tp purchase the following parts from LEGO&
 [Download the cube puzzle part list](/partlist/cube-partlist.csv)
 
 > **Note**  
-> Each puzzle will cost about $45.00 CDN
+> Each puzzle will cost about $45.00 CDN. When building multiple puzzles, change up the colours!
 
 ---
 

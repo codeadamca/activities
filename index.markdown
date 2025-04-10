@@ -7,11 +7,11 @@
 These are instructions for a collection of team building challenges using LEGO bricks:
 
 - [LEGO Cube Puzzle](/cube) 
-- [Blind Build](/blind)
 - [Build a Duck](/duck)
 - [Tallest Tower](tower)
 - [Art Piece](/art)
 - [Minifig Me](minifig)
+- [Blind Build](/blind)
 
 ---
 
