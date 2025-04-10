@@ -15,7 +15,7 @@ For this challenge, participants will be challenged to construct a perfect cube 
 
 2. Instruct the class that: 
     
-    - The coloured patters on the blocks are not part of the puzzle.
+    - The coloured patterns on the blocks are not part of the puzzle.
     - You may not disassemble the blocks.
 
 3. Put students into groups (max seven groups). Give each group a puzzle. Instruct groups to use the blocks to build a perfect cube. 
