@@ -6,7 +6,7 @@
 
 These are instructions for a collection of team building challenges using LEGO bricks:
 
-- [LEGO Cube Puzzle](/cube) 
+- [Cube Puzzle](/cube) 
 - [Build a Duck](/duck)
 - [Tallest Tower](tower)
 - [Art Piece](/art)
