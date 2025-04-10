@@ -1,4 +1,4 @@
-# challenges
+[Home](/) / Build a Cube Challenge
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
@@ -45,8 +45,11 @@ If you are not using this challenge at Humber Polytechnic or do not have access 
 ![Cube Step 2](/images/cube/14_1x.png)
 ![Cube Step 2](/images/cube/15_1x.png)
 
+[Download the cube puzzle instructions PDF](/instructions/cube-instructions.pdf)
+
 To create these puzzles you will need tp purchase the following parts from LEGO&reg; [Pick a Brick](https://www.lego.com/en-ca/pick-and-build/pick-a-brick):
 
+[Download the cube puzzle part list](/partlist/cube-partlist.csv)
 
 
 
