@@ -6,7 +6,7 @@
 
 This is a puzzle that has not yet been created. It will be a verision of the puzzle below made from LEGO&reg; bricks.
 
-https://www.printables.com/model/105620-survivor-32-three-tiered-pole-puzzle
+[https://www.printables.com/model/105620-survivor-32-three-tiered-pole-puzzle](https://www.printables.com/model/105620-survivor-32-three-tiered-pole-puzzle)
 
 ---
 
