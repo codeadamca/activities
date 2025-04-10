@@ -12,6 +12,7 @@ These are instructions for a collection of team building challenges using LEGO b
 - [Art Piece](/art)
 - [Minifig Me](minifig)
 - [Blind Build](/blind)
+- [Three Tiered Pole Puzzle](/pole)
 
 ---
 
