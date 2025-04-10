@@ -1,12 +1,12 @@
-[Home](/) / Tree Tiered Pole Puzzle
+[Home](/) / Coloured Block Puzzle
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Three Tiered Pole Puzzle
+## Coloured Block Puzzle
 
 This is a puzzle that has not yet been created. It will be a verision of the puzzle below made from LEGO&reg; bricks.
 
-[https://www.printables.com/model/105620](https://www.printables.com/model/105620)
+[https://www.etsy.com/ca/listing/1613169442](https://www.etsy.com/ca/listing/1613169442)
 
 ---
 
