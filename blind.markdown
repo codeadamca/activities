@@ -33,18 +33,13 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
 4. Each pair chooses a builder and a caller. Give the caller the instructions. Give the builder the bag of LEGO&reg; bricks.
 
     If there are not enough instructions, they are also available online:
-
- 
-    <img src="/images/blind/blind-green-bags.png" width="60">
-    <img src="/images/blind/blind-blue-bags.png" width="60">
-    <img src="/images/blind/blind-yellow-bags.png" width="60">
-
+    
     | | Colour | Bags | Link |
     | --- | --- | --- | --- |
     | <img src="/images/blind/blind-red-bags.png" width="60"> | Red Instructions | Bags 1-3 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414836.pdf) |
-    | Green Instructions | Bags 4-6 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414839.pdf) |
-    | Blue Instructions | Bags 7-9 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414842.pdf) |
-    | Yellow Instructions | Bags 10-12 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414845.pdf) |
+    | <img src="/images/blind/blind-green-bags.png" width="60"> | Green Instructions | Bags 4-6 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414839.pdf) |
+    | <img src="/images/blind/blind-blue-bags.png" width="60"> | Blue Instructions | Bags 7-9 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414842.pdf) |
+    | <img src="/images/blind/blind-yellow-bags.png" width="60"> | Yellow Instructions | Bags 10-12 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414845.pdf) |
 
 5. Callers can describe the instructions, point, use hand gestures, and see the bricks the builder is building. Everything but touch the bricks. Builders can build, ask questions, and show the caller the build. Everything but see the instructions. 
 
