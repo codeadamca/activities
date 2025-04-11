@@ -4,29 +4,31 @@
 
 ## Blind Build
 
-For this challenge, participants will work in pairs to build small LEGO&reg; sets using the [Build Tegether](https://www.lego.com/en-ca/product/build-together-11020) LEGO&reg; set.
+For this challenge, participants will work in pairs to build small LEGO&reg; sets using the [Build Together](https://www.lego.com/en-ca/product/build-together-11020) LEGO&reg; set.
+
+**Please make sure you do not mix the bags of LEGO&reg; bricks!!**
 
 ![Build Together](/images/blind/blind-build-together.png)
 
-> <small>(N.d.). Build Tegether. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/build-together-11020.</small>
+> <small>(N.d.). Build Together. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/build-together-11020.</small>
 
 > **Note**  
 > These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on preparing your own challenges.
 
-1. There are four copies of the LEGO&reg; Build Teogether sets. This set contains 24 small builds.
+1. There are four copies of the LEGO&reg; Build Together sets in the plastic drawers in CTI306. This set contains 24 small builds.
 
     ![Build Together - Red Sets](/images/blind/blind-red-bags.png)
     ![Build Together - Green Sets](/images/blind/blind-green-bags.png)
     ![Build Together - Blue Sets](/images/blind/blind-blue-bags.png)
     ![Build Together - Yellow Sets](/images/blind/blind-yellow-bags.png)
 
-    > <small>(N.d.). Build Tegether. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/build-together-11020.</small>
+    > <small>(N.d.). Build Together. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/build-together-11020.</small>
 
-2. Divide the class into pairs. Each round half the pairs will be building and half of the pairs will observing the bulders to make sure no one is cheating!
+2. Divide the class into pairs. Each round some of the pairs will be building and some of the pairs will be observing the builders (make sure no one is cheating).
 
 3. Choose a set. Start with small sets. If the building is going well, increase the size of the set each round. 
 
-    If you have more than eight pairs (four bulders and four obsevers), use sets of similar size and from different bags. For example the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
+    There are only four copies of each set. If you have more than eight pairs (four bulders and four obsevers), you can combine sets of similar size and from different bags into the same round. For example, the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
 
 4. Each pair chooses a builder and a caller. Give the caller the instructions. Give the builder the bag of LEGO&reg; bricks.
 
@@ -42,7 +44,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
 5. Callers can describe the instructions, point, use hand gestuers, and see the bricks the builder is building. Everything but touch the bricks. Builders can build, ask questions, and show the caller the build. Everything but see the instructions. 
 
     > **Note**
-    > For an exciting last round, you can place a barrier between the builder and caller. This way the caller cannot see the bricks and progress the builder is making. There is a large pad paper in the closet (CTI304, must be opened from the hallway) that can be used to create barriers. 
+    > For an exciting last round, you can place a barrier between the builder and caller. This way the caller cannot see the bricks and progress the builder is making. There is a large pad of paper in the closet (CTI304, must be opened from the hallway) that can be folded into barriers. 
 
 6. The first half of the teams to complete the build perfectly move on to the next round. For larger builds or blind builds you can set a round time limit and then have the observers vote on who they think won the round. 
 
