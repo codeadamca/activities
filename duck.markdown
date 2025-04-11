@@ -4,7 +4,7 @@
 
 ## Build a Duck Challenge
 
-This challenge is based off an official LEGO&reg; polybag set [30541](https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541). For this challenge, participants will be challenged to construct a duck using the 10 provided LEGO&reg; bricks. The purpose of the challenge is to see the variety of ducks that will be created despite the same instructions and bricks.
+This challenge is based off an official LEGO&reg; polybag set [30541](https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541). For this challenge, participants will be challenged to construct a duck using the 10 provided LEGO&reg; bricks. The purpose of the challenge is to see the variety of ducks that will be created despite being given the same instructions and the identical bricks.
 
 ![Cube Banner](/images/duck/duck-examples.png)
 
@@ -27,7 +27,7 @@ This challenge is based off an official LEGO&reg; polybag set [30541](https://ww
 
 ![LEGO&reg; Poplybag 30541](/images/duck/duck-polybag.png)
 
-The duck polybags are no longer avialable from The LEGO Group&trade;, but can be purchased from [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?S=30541-1) or by using the LEGO&reg; [Pick a Brick](https://www.lego.com/en-ca/pick-and-build/):
+The duck polybags are no longer available from The LEGO Group&trade;, but can be purchased from [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?S=30541-1) or by using the LEGO&reg; [Pick a Brick](https://www.lego.com/en-ca/pick-and-build/):
 
 [Download the duck puzzle part list](/partlist/duck-partlist.csv)
 
