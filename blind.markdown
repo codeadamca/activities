@@ -28,7 +28,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
 
 3. Choose a set. Start with small sets. If the building is going well, increase the size of the set each round. 
 
-    There are only four copies of each set. If you have more than eight pairs (four bulders and four obsevers), you can combine sets of similar size and from different bags into the same round. For example, the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
+    There are only four copies of each set. If you have more than eight pairs (four builders and four observers), you can combine sets of similar size and from different bags into the same round. For example, the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
 
 4. Each pair chooses a builder and a caller. Give the caller the instructions. Give the builder the bag of LEGO&reg; bricks.
 
@@ -41,7 +41,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
     | Blue Instructions | Bags 7-9 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414842.pdf) |
     | Yellow Instructions | Bags 10-12 | [Download Instruction](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6414845.pdf) |
 
-5. Callers can describe the instructions, point, use hand gestuers, and see the bricks the builder is building. Everything but touch the bricks. Builders can build, ask questions, and show the caller the build. Everything but see the instructions. 
+5. Callers can describe the instructions, point, use hand gestures, and see the bricks the builder is building. Everything but touch the bricks. Builders can build, ask questions, and show the caller the build. Everything but see the instructions. 
 
     > **Note**
     > For an exciting last round, you can place a barrier between the builder and caller. This way the caller cannot see the bricks and progress the builder is making. There is a large pad of paper in the closet (CTI304, must be opened from the hallway) that can be folded into barriers. 
@@ -51,7 +51,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
     > **Note**
     > The first round can be a practice round. No elimination after round one. 
 
-7. After each non-practice round, elimiate half the teams, and increase the complexity of the build. Here is a sample bracket for 16 participants (eight groups):
+7. After each non-practice round, eliminate half the teams, and increase the complexity of the build. Here is a sample bracket for 16 participants (eight groups):
 
     ![Sample Bracket](/images/blind/blind-bracket.png)
 
