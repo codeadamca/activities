@@ -10,6 +10,8 @@ This challenge is based off an official LEGO&reg; polybag set [30541](https://ww
 
 > <small>(N.d.). Animal Free Builds - Make It Yours. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541. </small>
 
+**Please make sure each kit is returned to its bag!!**
+
 > **Note**  
 > These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on creating your own copies of this puzzle.
 

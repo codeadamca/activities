@@ -55,7 +55,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
 
     ![Sample Bracket](/images/blind/blind-bracket.png)
 
-## Build Your Own Kits
+## Preparing your Own Kits
 
 This challenges works well with any [LEGO&reg; Classic brick sets](https://www.lego.com/en-ca/themes/classic?sort.key=PRICE&sort.direction=DESC).
 

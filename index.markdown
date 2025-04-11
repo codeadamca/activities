@@ -10,7 +10,7 @@ These are instructions for a collection of team building challenges using LEGO b
 - [Build a Duck](/duck)
 - [Tallest Tower](tower)
 - [Art Piece](/art)
-- [Minifig Me](minifig)
+- [Minifig Yourself](minifig)
 - [Blind Build](/blind)
 - [Coloured Blocks Puzzle](/blocks)
 - [Three Tiered Pole Puzzle](/pole)
