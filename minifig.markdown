@@ -6,7 +6,7 @@
 
 For this challenge, participants will be challenged to create a LEGO&reg; minifigure that best represents themselves. 
 
-![Cube Banner](/images/cube/cube-challenge.png)
+![Cube Banner](/images/minifigure/minifigure-parts.png)
 
 **Please reach out to me before using this activity!! We have limited minfig parts.**
 
@@ -27,7 +27,7 @@ Minifigure parts can be hard to come by. If you're looking to aquire your own co
 
 > <small>(N.d.). Table Football. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/table-football-21337.</small>
 
-If you can get a hold of the [LEGO&reg; Table Football](https://www.lego.com/en-ca/product/table-football-21337) it has a great assorment of minfigure parts. Enough for 22 minifigures with lots of extra hair and heads.
+If you can get a hold of the [LEGO&reg; Table Football](https://www.lego.com/en-ca/product/table-football-21337) it has a great assortment of minfigure parts. Enough for 22 minifigures with lots of extra hair and heads.
 
 ---
 
