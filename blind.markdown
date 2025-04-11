@@ -28,7 +28,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
 
 3. Choose a set. Start with small sets. If the building is going well, increase the size of the set each round. 
 
-    There are only four copies of each set. If you have more than eight pairs (four builders and four observers), you can combine sets of similar size and from different bags into the same round. For example, the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
+    There are only four copies of each set. If you have more than eight pairs, you can combine sets of similar size and from different bags into the same round. For example, the red helicopter from bag one is about the same size as the blue space shuttle from bag seven.
 
 4. Each pair chooses a builder and a caller. Give the caller the instructions. Give the builder the bag of LEGO&reg; bricks.
 
@@ -46,7 +46,7 @@ For this challenge, participants will work in pairs to build small LEGO&reg; set
     > **Note**
     > For an exciting last round, you can place a barrier between the builder and caller. This way the caller cannot see the bricks and progress the builder is making. There is a large pad of paper in the closet (CTI304, must be opened from the hallway) that can be folded into barriers. 
 
-6. The first half of the teams to complete the build perfectly move on to the next round. For larger builds or blind builds you can set a round time limit and then have the observers vote on who they think won the round. 
+6. The first half of the teams to complete the build perfectly move on to the next round. For larger builds or blind builds you can set a round time limit and then have the observers vote on who they think won the round. You may use the [LiveCounter](https://pages.codeadam.ca/livecounter/) to display LEGO&reg; memes with a timer while they build.
 
     > **Note**
     > The first round can be a practice round. No elimination after round one. 

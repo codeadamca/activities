@@ -19,7 +19,7 @@ This challenge is based off an official LEGO&reg; polybag set [30541](https://ww
 
     ![Duck Part List](/images/duck/duck-parts.png)
 
-3. Give students approximately five to ten minutes to build their duck. You may use the [LiveCounter](https://pages.codeadam.ca/livecounter/) to display five minutes of LEGO&reg; memes and a timer while they build.
+3. Give students approximately five to ten minutes to build their duck. You may use the [LiveCounter](https://pages.codeadam.ca/livecounter/) to display five minutes of LEGO&reg; memes with a timer while they build.
 
 4. At the end of the challenge have all groups place their ducks at a shared space. Give students a chance to view the other ducks.
 
