@@ -6,12 +6,11 @@
 
 These are instructions for a collection of team building challenges using LEGO bricks:
 
-<table border="0">
+<table style="border:0;">
     <tr>
         <td>
-        
-[![Cube Puzzle](/images/cube/cube-thumbnail.png)](/cube)
-[![Cube Puzzle](/images/duck/duck-thumbnail.png)](/duck)
+
+            <a href="/cube"><img src="/images/cube/cube-thumbnail.png"><br>Cub Puzzle</a>
 
         </td>
     </tr>
