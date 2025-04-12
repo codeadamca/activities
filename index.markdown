@@ -9,9 +9,10 @@ These are instructions for a collection of team building challenges using LEGO b
 <table style="border:0; text-align:center;">
     <tr>
         <td>
-
             <a href="/cube"><img src="/images/cube/cube-thumbnail.png"><br>Cube Puzzle</a>
-
+        </td>
+        <td>
+            <a href="/duck"><img src="/images/duck/duck-thumbnail.png"><br>Build a Duck Activity</a>
         </td>
     </tr>
 </table>
