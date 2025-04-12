@@ -6,16 +6,11 @@
 
 These are instructions for a collection of team building challenges using LEGO bricks:
 
-<table>
-    <tr>
-        <td style="border:0; text-align:center;">
-            <a href="/cube"><img src="/images/cube/cube-thumbnail.png"><br>Cube Puzzle</a>
-        </td>
-        <td style="border:0; text-align:center;">
-            <a href="/duck"><img src="/images/duck/duck-thumbnail.png"><br>Build a Duck Activity</a>
-        </td>
-    </tr>
-</table>
+| | Activity | Participants | Instructions |
+| --- | --- | --- | --- |
+| <img src="/images/cube/cube-thumbnail.png" width="60"> | Build a Cube | 7 to 28 |
+| <img src="/images/duck/duck-thumbnail.png" width="60"> | Build a Duck | 5 to 30 |
+        
 
 - [Tallest Tower](tower)
 - [Art Piece](/art)
