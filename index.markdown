@@ -6,8 +6,17 @@
 
 These are instructions for a collection of team building challenges using LEGO bricks:
 
-- [Cube Puzzle](/cube) 
-- [Build a Duck](/duck)
+<table border="0">
+    <tr>
+        <td>
+        
+[![Cube Puzzle](/images/cube/cube-thumbnail.png)](/cube)
+[![Cube Puzzle](/images/duck/duck-thumbnail.png)](/duck)
+
+        </td>
+    </tr>
+</table>
+
 - [Tallest Tower](tower)
 - [Art Piece](/art)
 - [Minifig Yourself](minifig)
