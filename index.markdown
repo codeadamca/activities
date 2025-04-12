@@ -8,8 +8,8 @@ These are instructions for a collection of team building challenges using LEGO b
 
 | | Activity | Participants | Instructions |
 | --- | --- | --- | --- |
-| <img src="/images/cube/cube-thumbnail.png" width="60"> | Build a Cube | 7 to 28 |
-| <img src="/images/duck/duck-thumbnail.png" width="60"> | Build a Duck | 5 to 30 |
+| <img src="/images/cube/cube-thumbnail.png" width="60"> | Build a Cube | 7 to 28 | [View Instruction](/cube) |
+| <img src="/images/duck/duck-thumbnail.png" width="60"> | Build a Duck | 5 to 30 | [View Instruction](/duck) |
         
 
 - [Tallest Tower](tower)
