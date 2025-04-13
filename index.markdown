@@ -18,7 +18,6 @@ These are instructions for a collection of team building challenges using LEGO b
 
 - [Tallest Tower](tower)
 - [Art Piece](/art)
-- [Blind Build](/blind)
 - [Coloured Blocks Puzzle](/blocks)
 - [Three Tiered Pole Puzzle](/pole)
 
