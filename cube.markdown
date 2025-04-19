@@ -11,7 +11,7 @@ For this challenge, participants will be challenged to construct a perfect cube 
 > **Note**  
 > These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on creating your own copies of this puzzle.
 
-<iframe src="https://pages.codeadam.ca/ldr-viewer/view" data-path="https://ldr.brickmmo.com/cube-puzzle/" data-filename="cube-puzzle.packed.mpd" data-background="14609389"height="320" wisth="600" frameborder="0" allowtransparency id="iframe" allowtransparency></iframe>
+<iframe src="https://pages.codeadam.ca/ldr-viewer/view" data-path="https://ldr.brickmmo.com/cube-puzzle/" data-filename="cube-puzzle.packed.mpd" data-background="14609389" height="320" wisth="600" frameborder="0" allowtransparency id="iframe" allowtransparency></iframe>
 
 1. There are seven copies of this puzzle in the plastic drawers in room CTI306. Sort the blocks based on their colour. There should be six 2 x 2 x 1 blocks and three 1 x 1 x 1 blocks. 
 
