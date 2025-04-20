@@ -24,7 +24,7 @@ For this challenge, participants will be challenged to construct a perfect cube 
 
 5. **Hint!** If groups continue to struggle, inform the groups that one of the 1 x 1 x 1 blocks will go in the exact middle of the puzzle. 
 
-<iframe src="https://pages.codeadam.ca/ldr-viewer/view?background=4284900966&filename=cube-puzzle.packed.mpd&path=https://ldr.brickmmo.com/cube-puzzle/" height="320" width="600" frameborder="0" allowtransparency id="iframe"></iframe>
+<iframe src="https://pages.codeadam.ca/ldr-viewer/view?background=4293848814&filename=cube-puzzle.packed.mpd&path=https://ldr.brickmmo.com/cube-puzzle/" height="320" width="600" frameborder="0" allowtransparency id="iframe"></iframe>
 
 ## Solution
 
