@@ -16,7 +16,7 @@ These are instructions for a collection of team building challenges using LEGO b
 
 ## Activities in Progress
 
-- [Custom Build Competition](/custom)
+- [Prototyping](/prototyping)
 - [Tallest Tower](tower)
 - [Art Piece](/art)
 - [Coloured Blocks Puzzle](/blocks)
