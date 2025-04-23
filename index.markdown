@@ -12,7 +12,7 @@ These are instructions for a collection of team building challenges using LEGO b
 | <img src="/images/duck/duck-thumbnail.png" width="200"> | Build a Duck | 5 to 30 | [View Instructions](/duck) |
 | <img src="/images/minifigure/minifigure-thumbnail.png" width="200"> | Minifig Yourself | 5 to 10 | [View Instructions](/minifigure) |
 | <img src="/images/blind/blind-thumbnail.png" width="200"> | Blind Build | 8 to 32 | [View Instructions](/blind) |
-| <img src="/images/prototype/prototype-thumbnail.png" width="200"> | Prototyping | 8 to 32 | [View Instructions](/prototyping) |
+| <img src="/images/prototype/prototyping-thumbnail.png" width="200"> | Prototyping | 8 to 32 | [View Instructions](/prototyping) |
         
 
 ## Activities in Progress
