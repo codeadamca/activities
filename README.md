@@ -6,7 +6,7 @@ A collection of team building activities using LEGO&reg; bricks.
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 > This repo is available to view at  
-> [https://challenges.codeadam.ca](https://challenges.codeadam.ca)
+> [https://activities.codeadam.ca](https://activities.codeadam.ca)
 
 ---
 
