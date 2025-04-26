@@ -1,4 +1,4 @@
-# LEGO Team Bulding Challenges
+# LEGO Team Bulding Activities
 
 A collection of team building activities using LEGO&reg; bricks. 
 
