@@ -14,19 +14,21 @@ In this activity, groups will be challenged to prototype an objective using a LE
    ![Classis](images/prototyping/prototyping-fantasy.png)
    ![Diagon Alley™](images/prototyping/prototyping-diagon.png)
 
-   There is also a LEGO&reg; MOC (My Own Creation) that can be used to assign groups to a theme. Place the four boxes on a desk at the front, each box has a bin of matching LEGO&reg;, and allow one member from each group to come up to the front and reveal a minifigure.
+   This gives each prototype a fun theme!
 
-2. Discuss the bulding objectives and any related factors to consider. You may want to include your own brainstorming process and slidedeck during this step.
+   There is also a LEGO&reg; MOC (My Own Creation) that can be used as a fun way to assign groups to a theme. Place the four boxes on a desk at the front. Each box has a LEGO&reg; minifigure from each of the four themes. Allow one member from each group to come up to the front and reveal a minifigure to select their theme!
 
-3. Give participants two to four hours to build their prototype. In past sessions sometimes two hours has been too much time and participants are board, and sometimes four hours has been too little.
+3. Discuss the bulding objectives and any related factors to consider. You may want to include your own brainstorming process and slidedeck during this step.
 
-4. Allow each group to have five minutes to present their idea.
+4. Give participants two to four hours to build their prototype. In past sessions sometimes two hours has been too much time and participants are board, and sometimes four hours has been too little. You'll have to gauge your group and adjust.
 
-   I have often setup a camera so groups can easily display their prototype on the projection screen.
+5. Allow each group to have five minutes to present their prototype.
+
+   I have often setup a GoPro camera so groups can easily display their prototype on the projection screen.
 
 ## Cleanup
 
-Please deconstruct the LEGO&reg; prototypes and place LEGO&reg; back in their bin. Please keep LEGO&reg; seperated by their theme. Place bins, boxes, and the reveal MOC back in the CTI304 closet.
+Please deconstruct the LEGO&reg; prototypes and place LEGO&reg; back in their corresponding bin. Please keep LEGO&reg; seperated by their theme. Place bins, boxes, and the reveal MOC back in the CTI304 closet. Take pictures o the prototype and send them to me please!
 
 ---
 
