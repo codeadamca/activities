@@ -9,9 +9,9 @@ In this activity, groups will be challenged to prototype an objective using a LE
 1. Each group will choose a LEGO&reg; theme. There are kits set aside from LEGO&reg; Classic, LEGO&reg; Batman&trade;, LEGO&reg; Harry Potter&trade;, and LEGO&reg; Star Wars&trade;.
 
    ![Mos Eisley Cantina™](images/prototyping/prototyping-mos.png)
-   ![Batcave™ Shadow Box](images/prototyping/prototyping-shadow.png)
-
    ![Classis](images/prototyping/prototyping-fantasy.png)
+   
+   ![Batcave™ Shadow Box](images/prototyping/prototyping-shadow.png)
    ![Diagon Alley™](images/prototyping/prototyping-diagon.png)
 
    This gives each prototype a fun theme!
