@@ -8,11 +8,20 @@ In this activity, groups will be challenged to prototype an objective using a LE
 
 1. Each group will choose a LEGO&reg; theme. There are kits set aside from LEGO&reg; Classic, LEGO&reg; Batman&trade;, LEGO&reg; Harry Potter&trade;, and LEGO&reg; Star Wars&trade;.
 
-   ![Classis](images/prototyping/prototyping-fantasy.png)
+   ![Classic](images/prototyping/prototyping-fantasy.png)
+   > <small>(N.d.). LEGO&reg; Classic. Retrieved May 1, 2025, from https://www.lego.com/en-ca/product/creative-fantasy-universe-11033.</small>
+
    ![Mos Eisley Cantina™](images/prototyping/prototyping-mos.png)
+   > <small>(N.d.). LEGO&reg; Mos Eisley Cantina™. Retrieved May 1, 2025, from https://www.lego.com/en-ca/product/mos-eisley-cantina-75290.</small>
    
    ![Batcave™ Shadow Box](images/prototyping/prototyping-shadow.png)
+   > <small>(N.d.). LEGO&reg; Batcave™ Shadow Box. Retrieved May 1, 2025, from https://www.lego.com/en-ca/product/batcave-shadow-box-76252.</small>
+
    ![Diagon Alley™](images/prototyping/prototyping-diagon.png)
+   > <small>(N.d.). LEGO&reg; Diagon Alley™. Retrieved May 1, 2025, from https://www.lego.com/en-ca/product/diagon-alley-75978.</small>
+
+   ![Rivendell™](images/prototyping/prototyping-rings.png)
+   > <small>(N.d.). LEGO& Rivendell™. Retrieved May 1, 2025, from https://www.lego.com/en-ca/product/lotr-10316.</small>
 
    This gives each prototype a fun theme!
 
