@@ -42,6 +42,9 @@ These are instructions for a collection of team building challenges using LEGO b
 - [_readme](https://readme.codeadam.ca/)
 - [Tidy](https://tidy.codeadam.ca/)
 
+<div class="components" id="resources"></div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
