@@ -21,27 +21,6 @@ These are instructions for a collection of team building challenges using LEGO b
 - [Coloured Blocks Puzzle](/blocks)
 - [Three Tiered Pole Puzzle](/pole)
 
----
-
-## BrickMMO Resources
-
-- [BrickMMO Branding Guidelines](https://branding.brickmmo.com/)
-- [CDN](https://cdn.brickmmo.com/)
-- [Tasks](https://github.com/BrickMMO/tasks)
-- [LDR Directory](https://ldr.brickmmo.com/)
-
-## CodeAdam Resources
-
-- [Team Building Activities](https://activities.codeadam.ca)
-- [CodeAdam Branding Guidelines](https://branding.codeadam.ca/)
-- [CDN](https://cdn.codeadam.ca/)
-- [Coding Challenges](https://challenges.codeadam.ca/)
-- [ePlus](https://eplus.codeadam.ca/)
-- [Pseudocode Guides](https://pseudocode.codeadam.ca/)
-- [Interview Questions](https://questions.codeadam.ca/)
-- [_readme](https://readme.codeadam.ca/)
-- [Tidy](https://tidy.codeadam.ca/)
-
 <div class="components" id="resources">--resources--</div>
 <script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
 
