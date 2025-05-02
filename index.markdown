@@ -23,6 +23,24 @@ These are instructions for a collection of team building challenges using LEGO b
 
 ---
 
+## BRickMMO Resources
+
+- https://ldr.brickmmo.com/
+- https://branding.brickmmo.com/
+- https://cdn.brickmmo.com/
+
+## CodeAdam Resources
+
+- https://activities.codeadam.ca
+- https://branding.codeadam.ca/
+- https://cdn.codeadam.ca
+- https://questions.codeadam.ca
+- https://eplus.codeadam.ca/
+- https://readme.codeadam.ca/
+- https://pseudocode.codeadam.ca/
+
+---
+
 <a href="https://codeadam.ca">
 <img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
 </a>
