@@ -25,19 +25,22 @@ These are instructions for a collection of team building challenges using LEGO b
 
 ## BrickMMO Resources
 
-- https://ldr.brickmmo.com/
-- https://branding.brickmmo.com/
-- https://cdn.brickmmo.com/
+- [BrickMMO Branding Guidelines](https://branding.brickmmo.com/)
+- [CDN](https://cdn.brickmmo.com/)
+- [Tasks](https://github.com/BrickMMO/tasks)
+- [LDR Directory](https://ldr.brickmmo.com/)
 
 ## CodeAdam Resources
 
-- https://activities.codeadam.ca
-- https://branding.codeadam.ca/
-- https://cdn.codeadam.ca
-- https://questions.codeadam.ca
-- https://eplus.codeadam.ca/
-- https://readme.codeadam.ca/
-- https://pseudocode.codeadam.ca/
+- [Team Building Activities](https://activities.codeadam.ca)
+- [CodeAdam Branding Guidelines](https://branding.codeadam.ca/)
+- [CDN](https://cdn.codeadam.ca/)
+- [Coding Challenges](https://challenges.codeadam.ca/)
+- [ePlus](https://eplus.codeadam.ca/)
+- [Pseudocode Guides](https://pseudocode.codeadam.ca/)
+- [Interview Questions](https://questions.codeadam.ca/)
+- [_readme](https://readme.codeadam.ca/)
+- [Tidy](https://tidy.codeadam.ca/)
 
 ---
 
