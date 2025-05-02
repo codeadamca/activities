@@ -23,7 +23,7 @@ These are instructions for a collection of team building challenges using LEGO b
 
 ---
 
-## BRickMMO Resources
+## BrickMMO Resources
 
 - https://ldr.brickmmo.com/
 - https://branding.brickmmo.com/
