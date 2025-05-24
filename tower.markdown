@@ -4,7 +4,7 @@
 
 ## Tallest Tower
 
-This challenge requrest groups of partiipants to construct the tallest freestanding tower. Each group will use bricks from the [LEGO Space Mission](https://www.lego.com/en-ca/product/space-mission-11022) set.
+This challenge requrest groups of partiipants to construct the tallest freestanding tower. Each group will use bricks from the [LEGO&reg; Space Mission](https://www.lego.com/en-ca/product/space-mission-11022) set.
 
 ![](/images/tower/tower-space.png)
 
@@ -12,30 +12,17 @@ This challenge requrest groups of partiipants to construct the tallest freestand
 
 **Please make sure towers are mostly deconstructed and each bin is returned to its shelf!!**
 
-1. There are 30 copies of this challenge in the plastic drawers in room CTI306. There should be 30 zip lock bags with ten pieces in each bag. 
+1. There are eight similar bins of LEGO&reg; in CTI304 with approximately half of the bricks from the [LEGO&reg; Space Mission](https://www.lego.com/en-ca/product/space-mission-11022) set.  
 
-2. There should be enough kits to have students work as individuals (if not use groups). Give each individual a bag of parts. Instruct individuals that they should each have the following parts:
+2. Split participants into groups of two to five and give each group a bin. 
 
-    ![Duck Part List](/images/duck/duck-parts.png)
+3. Give groups approximately fiftenn to twenty minutes to build their tower. You may use the [LiveCounter](https://pages.codeadam.ca/livecounter/) to display LEGO&reg; memes with a timer while they build.
 
-3. Give students approximately five to ten minutes to build their duck. You may use the [LiveCounter](https://pages.codeadam.ca/livecounter/) to display five minutes of LEGO&reg; memes with a timer while they build.
-
-4. At the end of the challenge have all groups place their ducks at a shared space. Give students a chance to view the other ducks.
-
-5. **Optional!** Allow students to vote on which duck is the best! Or worst! Or come up with your own categories.
+4. At the end of the challenge have all groups let go of their buildings as they must be free standing. 
 
 ## Build Your Own Kits
 
-![LEGO&reg; Poplybag 30541](/images/duck/duck-polybag.png)
-
-> <small>(N.d.). Animal Free Builds - Make It Yours. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541. </small>
-
-The duck polybags are no longer available from The LEGO Group&trade;, but can be purchased from [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?S=30541-1) or by using the LEGO&reg; [Pick a Brick](https://www.lego.com/en-ca/pick-and-build/):
-
-[Download the duck puzzle part list](/partlist/duck-partlist.csv)
-
-> **Note**  
-> Each puzzle will cost about $5.00 CDN by picking parts or you can check to see if there are any used copies of the polybag from [BrickLink](https://www.bricklink.com/v2/catalog/catalogitem.page?S=30541-1).
+Purchase any number of classic building sets. Divide the bricks into similar quantities and put the LEGO&reg; bins.
 
 ---
 
