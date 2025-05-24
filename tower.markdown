@@ -4,16 +4,13 @@
 
 ## Tallest Tower
 
-This challenge requrest groups of partiipants to construct the tallest freestanding tower.
+This challenge requrest groups of partiipants to construct the tallest freestanding tower. Each group will use bricks from the [LEGO Space Mission](https://www.lego.com/en-ca/product/space-mission-11022) set.
 
 ![](/images/tower/tower-space.png)
 
 > <small>(N.d.). Space Mission. Retrieved May 24, 2025, from https://www.lego.com/en-ca/product/space-mission-11022. </small>
 
-**Please make sure each kit is returned to its bag!!**
-
-> **Note**  
-> These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on creating your own copies of this puzzle.
+**Please make sure towers are mostly deconstructed and each bin is returned to its shelf!!**
 
 1. There are 30 copies of this challenge in the plastic drawers in room CTI306. There should be 30 zip lock bags with ten pieces in each bag. 
 
