@@ -1,4 +1,4 @@
-[Home](/) / Build a Duck Challenge
+[Home](/) / Tallest Tower
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
