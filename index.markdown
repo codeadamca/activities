@@ -13,10 +13,10 @@ These are instructions for a collection of team building challenges using LEGO b
 | <img src="/images/minifigure/minifigure-thumbnail.png" width="200">   | Minifig Yourself | 5 to 10      | [View Instructions](/minifigure)  |
 | <img src="/images/blind/blind-thumbnail.png" width="200">             | Blind Build      | 8 to 32      | [View Instructions](/blind)       |
 | <img src="/images/prototyping/prototyping-thumbnail.png" width="200"> | Prototyping      | 8 to 32      | [View Instructions](/prototyping) |
+|                                                                       | Tallest Tower    | 8 to 32      | [View Instructions](/tower) |
 
 ## Activities in Progress
 
-- [Tallest Tower](tower)
 - [Art Piece](/art)
 - [Coloured Blocks Puzzle](/blocks)
 - [Three Tiered Pole Puzzle](/pole)
