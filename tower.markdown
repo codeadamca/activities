@@ -2,13 +2,13 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Build a Duck Challenge
+## Tallest Tower
 
-This challenge is based off an official LEGO&reg; polybag set [30541](https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541). For this challenge, participants will be challenged to construct a duck using the 10 provided LEGO&reg; bricks. The purpose of the challenge is to see the variety of ducks that will be created despite being given the same instructions and the identical bricks.
+This challenge requrest groups of partiipants to construct the tallest freestanding tower.
 
-![Cube Banner](/images/duck/duck-examples.png)
+![](/images/tower/tower-space.png)
 
-> <small>(N.d.). Animal Free Builds - Make It Yours. Retrieved April 11, 2025, from https://www.lego.com/en-ca/product/animal-free-builds-make-it-yours-30541. </small>
+> <small>(N.d.). Space Mission. Retrieved May 24, 2025, from https://www.lego.com/en-ca/product/space-mission-11022. </small>
 
 **Please make sure each kit is returned to its bag!!**
 
