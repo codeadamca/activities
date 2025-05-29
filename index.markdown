@@ -4,7 +4,7 @@
 
 ## LEGO Team Building Challenges
 
-[Team Building](images/team-building.png)
+![Team Building](images/team-building.png)
 
 These are instructions for a collection of team building challenges using LEGO bricks:
 
