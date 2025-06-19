@@ -61,6 +61,13 @@ To create these puzzles you will need tp purchase the following parts from LEGO&
 > **Note**  
 > Each puzzle will cost about $45.00 CDN. When building multiple puzzles, change up the colours!
 
+### Digital Version
+
+For use during online classes, there is a [Digital Cube Puzzle](https://pages.codeadam.ca/cube/). This puzzle is slightly easier as:
+
+1. To keep the interation easy, the orientation of each block is provided.
+2. The size of the overall cube is provided. 
+
 ---
 
 <a href="https://codeadam.ca">
