@@ -11,18 +11,18 @@ For this challenge, participants will be challenged to construct a perfect cube 
 > **Note**  
 > These instructions assume you are running this challenge at the [Humber Polytechnic](https://humber.ca/) campus in room CTI306. If you are not, there are instructions at the bottom of this page on creating your own copies of this puzzle.
 
-1. There are seven copies of this puzzle in the plastic drawers in room CTI306. Sort the blocks based on their colour. There should be six 2 x 2 x 1 blocks and three 1 x 1 x 1 blocks. 
+1. There are seven copies of this puzzle in the plastic drawers in room CTI306. Sort the blocks based on their colour. There should be six 2 x 2 x 1 blocks and three 1 x 1 x 1 blocks.
 
-2. Instruct the class that: 
-    
-    - The coloured patterns on the blocks are not part of the puzzle.
-    - You may not disassemble the blocks.
+2. Instruct the class that:
 
-3. Put students into groups (max seven groups). Give each group a puzzle. Instruct groups to use the blocks to build a perfect cube. 
+   - The coloured patterns on the blocks are not part of the puzzle.
+   - You may not disassemble the blocks.
+
+3. Put students into groups (max seven groups). Give each group a puzzle. Instruct groups to use the blocks to build a perfect cube.
 
 4. **Hint!** If groups are struggling, encourgae them to calculate the overall size of the cube. The overall size of the cube will be 3 x 3 x 3 (like a Rubiks Cube).
 
-5. **Hint!** If groups continue to struggle, inform the groups that one of the 1 x 1 x 1 blocks will go in the exact middle of the puzzle. 
+5. **Hint!** If groups continue to struggle, inform the groups that one of the 1 x 1 x 1 blocks will go in the exact middle of the puzzle.
 
 <iframe src="https://pages.codeadam.ca/ldr-viewer/view?background=4293848814&filename=cube-puzzle.packed.mpd&path=https://ldr.brickmmo.com/cube-puzzle/" height="320" width="624" frameborder="0" allowtransparency id="iframe"></iframe>
 
@@ -66,7 +66,9 @@ To create these puzzles you will need tp purchase the following parts from LEGO&
 For use during online classes, there is a [Digital Cube Puzzle](https://pages.codeadam.ca/cube/). This puzzle is slightly easier as:
 
 1. To keep the interation easy, the orientation of each block is provided.
-2. The size of the overall cube is provided. 
+2. The size of the overall cube is provided.
+
+![3D Cube Puzzle](images/cube/screenshot-cube-puzzle.png)
 
 ---
 
