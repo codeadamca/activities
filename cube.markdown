@@ -68,7 +68,7 @@ For use during online classes, there is a [Digital Cube Puzzle](https://pages.co
 1. To keep the interation easy, the orientation of each block is provided.
 2. The size of the overall cube is provided.
 
-![3D Cube Puzzle](images/cube/screenshot-cube-puzzle.png)
+![3D Cube Puzzle](/images/cube/screenshot-cube-puzzle.png)
 
 ---
 
